@@ -3,21 +3,21 @@
 ## 桌面小组件
 
 
-![ro1Unr](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/ro1Unr.png)
+![a7XfPs](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/a7XfPs.png)
 
 
 
 
-![0hnPO3](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/0hnPO3.png)
+![veOwpB](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/veOwpB.png)
 
 
 
 
-![aWbwQt](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/aWbwQt.png)
+![uWaLNe](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/uWaLNe.png)
 
 
 
-![wz4qYD](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/wz4qYD.png)
+![p5bvL8](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/p5bvL8.png)
 
 
 
@@ -26,25 +26,10 @@
 
 ## 锁屏小组件
 
-![y6NZIC](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/y6NZIC.png)
+![n8USV1](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/n8USV1.png)
 
 
 
-![v9evZO](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/v9evZO.png)
-
-
-## StandBy 小组件
-
-
-![MPQtUX](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/MPQtUX.png)
-
-
-
-![FOn1NZ](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/FOn1NZ.png)
-
-
-
-![kAbyFT](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/kAbyFT.png)
-
+![rfqVbd](https://pico.oss-cn-hangzhou.aliyuncs.com/uPic/rfqVbd.png)
 
 
